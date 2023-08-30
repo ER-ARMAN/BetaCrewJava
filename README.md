@@ -1,5 +1,5 @@
 ### BetaCrewJava ## client to server ###// ARMAN //
-### 2. The Java client source code
+### 2. The Java Client to Server //
 -----------// arman2sde@gmail.com////--------
 The subdirectory `java` contains prepared Windows batches:
 - `01-compile-run-tcp4-receiver.cmd` - compiles and runs the Java CLASS for TCP IPv4 receiver
